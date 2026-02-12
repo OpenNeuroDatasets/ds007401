@@ -1,0 +1,18 @@
+{
+  "AcquisitionMatrixPE": 160,
+  "ColString": null,
+  "Dimensions": null,
+  "FlipAngle": 90,
+  "InversionTime": 2.25,
+  "ManufacturersModelName": "SIGNA HDx",
+  "PercentPhaseFOV": 100,
+  "PixelBandwidth": 244.141,
+  "ReconMatrixPE": 256,
+  "SequenceVariant": "SK",
+  "SliceThickness": 5,
+  "VoxelSizes": null,
+  "Modality": "MR",
+  "MagneticFieldStrength": 3,
+  "Hospital": null,
+  "exam_type": null
+}
