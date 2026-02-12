@@ -17,7 +17,9 @@
     "HowToAcknowledge": "If you use T1w or FLAIR scans, please cite the following publication: Taylor, Peter N., et al. \"The imaging database for epilepsy and surgery (IDEAS).\" Epilepsia 66.2 (2025): 471-481.\n\nIf you use the diffusion MRI scans, please cite the following publication: Taylor, Peter N., et al. “Open diffusion MRI and connectivity data for epilepsy and surgery: The IDEAS II release.” Epilepsia [in press] (2026)\n\nIf you use the resection masks please cite the following publication: Simpson, Callum., et al. “Automated generation of epilepsy surgery resection masks: The RAMPS pipeline” Imaging Neuroscience. (2025) 3 IMAG.a.147\n\n",
     "ReferencesAndLinks": [
         "https://doi.org/10.1111/epi.18192",
-        "https://www.cnnp-lab.com/ideas-data"
+        "https://www.cnnp-lab.com/ideas-data",
+        "https://doi.org/10.48550/arXiv.2602.09852",
+        "https://doi.org/10.1162/IMAG.a.147"
     ],
     "BIDSVersion": "1.8.0"
 }
